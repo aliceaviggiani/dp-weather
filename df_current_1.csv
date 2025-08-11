@@ -1,5 +1,2 @@
-Place,Latitude,Longitude,Elevation,Timezone,Current date,Current local time,Current universal time,Current temperature_2m,Current apparent_temperature,Current day or night,Current precipitation,Current weather code,Current weather description
-America/New_York,40.742,-73.8718,18.0,GMT-4,2025-08-11,17:45 EDT,21:45 UTC,27.17,26.98,day,0.0,0.0,Clear sky
-America/New_York,40.742,-73.8718,18.0,GMT-4,2025-08-11,17:45 EDT,21:45 UTC,27.17,26.98,day,0.0,0.0,Clear sky
-America/New_York,40.742,-73.8718,18.0,GMT-4,2025-08-11,17:45 EDT,21:45 UTC,27.17,26.98,day,0.0,0.0,Clear sky
-America/New_York,40.742,-73.8718,18.0,GMT-4,2025-08-11,17:45 EDT,21:45 UTC,27.17,26.98,day,0.0,0.0,Clear sky
+Place,Latitude,Longitude,Elevation,Timezone,Current date,Current local time,Current universal time,Current temperature_2m,Current apparent_temperature,Current day or night,Current precipitation,Current weather code,Current weather description,Current day or night color
+America/New_York,40.742,-73.8718,18.0,GMT-4,2025-08-11,17:45 EDT,21:45 UTC,27.17,26.98,day,0.0,0.0,Clear sky,#FFFFFF
